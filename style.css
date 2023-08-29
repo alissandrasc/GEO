@@ -42,7 +42,6 @@ img {
 }
 
 .card {
-    border: 5px purple;
     width: 60%;
     display: flex;
     justify-content: center;
